@@ -1,1 +1,2 @@
  edge auto search 
+cool
